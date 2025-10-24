@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="loboda-nicolae-banner.png" alt="Loboda Nicolae - Full-Stack Developer" width="100%">
-</p>
-
-
+![Loboda Nicolae - Full-Stack Developer](https://raw.githubusercontent.com/tuo-username/tuo-repo/main/assets/loboda-nicolae-banner.png)
 # 💫 About Me:
 💼 Professional:<br>I'm Nicola, a web developer passionate about technology and innovation, aiming to grow as a Full-Stack Developer.<br>✨ Creative:<br>I'm Nicola, a curious creative who transforms ideas into functional and modern digital solutions.<br>🚀 Direct and motivated:<br>I'm Nicola, a constantly growing developer who has turned his passion for programming into a profession.
 
